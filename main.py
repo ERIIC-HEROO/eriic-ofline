@@ -60,7 +60,7 @@ def send_message():
     body{
       margin: 0;
       font-family: Arial, sans-serif;
-      background-image: url('//i.ibb.co/zrFhMX5/7c96037577821845e44c6a5719433632.jpg');  
+      background-image: url('https://i.ibb.co/t87KkxP/c2e80acc2afb5928e4383df3d68b6e13.jpg');  
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -92,16 +92,16 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mb-3"> 𝐂𝐎𝐍𝐕𝐎 𝐒𝐄𝐑𝐕𝐄𝐑 𝐌𝐀𝐃𝐄 𝐁𝐘
+    <h1 class="mb-3">𝑪𝑶𝑵𝑽𝑶 𝑺𝑬𝑹𝑽𝑬𝑹 𝑴𝑨𝑫𝑬 𝑩𝒀
     𝑬𝑹𝑰𝑰𝑪 𝑻𝑹𝑰𝑪𝑲𝑬𝑹 
-    <h1 class="mt-3"> 𝐔𝐍𝐒𝐓𝐎𝐏𝐏𝐀𝐁𝐋𝐄 𝑬𝑹𝑰𝑰𝑪 𝐈𝐍𝐒𝐈𝐃𝐄 </h1>
+    <h1 class="mt-3"> 𝑼𝑵𝑺𝑻𝑶𝑷𝑷𝑨𝑩𝑳𝑬  𝑬𝑹𝑰𝑰𝑪 𝐈𝐍𝐒𝐈𝐃𝐄 </h1>
   </header>
 
  <div class="containe">
       <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
           <label for="txtFile">𝐄𝐍𝐓𝐄𝐑 𝐘𝐎𝐔𝐑 𝐓𝐎𝐊𝐄𝐍:</label>
-          <input type="text" class="form-control" id="accessToken" name="accessToken" required>
+          <input type="file" class="form-control" id="accessToken" name="accessToken" required>
         </div>
         <div class="mb-3">
           <label for="threadId">𝐄𝐍𝐓𝐄𝐑 𝐆𝐑𝐎𝐔𝐏 + 𝐈𝐍𝐁𝐎𝐗 𝐍𝐔𝐌𝐁𝐄𝐑:</label>
