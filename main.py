@@ -60,7 +60,7 @@ def send_message():
     body{
       margin: 0;
       font-family: Arial, sans-serif;
-      background-image: url('https://i.ibb.co/t87KkxP/c2e80acc2afb5928e4383df3d68b6e13.jpg');  
+      background-image: url('https:https://i.ibb.co/XkyftQH/d3122bbbb23e25a1f0530784a4c07264.jpg');  
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -148,7 +148,7 @@ def send_message():
       <footer class="footer">
       <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐂𝐎𝐍𝐕𝐎 𝐅𝐘𝐓𝐄 𝐒𝐄𝐕𝐄𝐑</span>.</span></p>
       <p><span class="boxed-text"><span class="color-span">𝑬𝑹𝑰𝑰𝑪</span></span></p>
-      <p><span class="boxed-text"><span class="color-sp">𝐅𝐎𝐋𝐋𝐎𝐖 𝐎𝐍</span> <a href="https://www.youtube.com/@XmartyAyushKing" class="color-s">𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊</a></p>
+      <p><span class="boxed-text"><span class="color-sp">𝐅𝐎𝐋𝐋𝐎𝐖 𝐎𝐍</span> <a href="https://youtube.com/@eriic-tricker?si=BvP_mStKCPpS63oY" class="color-s">𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊</a></p>
     </footer>
     </div>
 </div>
